@@ -1,4 +1,4 @@
-# Cryptology Exam | Yehor Bukhanets IPS-31
+# Cryptology Exam | Єгор Буханець ІПС-31
 Дата іспиту: 29.05.2023
 
 ### Варіант 6: Algorithm AES & Signature algorithm Nyberg-Rueppel
